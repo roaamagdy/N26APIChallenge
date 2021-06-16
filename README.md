@@ -33,6 +33,7 @@ java-TestNG framework
 
 # Built With
 
-- Rest assured Java Library
-- Maven Repository
+- Rest assured Java Library :  make server requests and fetch responses and process the response for analyzing and assertions.
+- Maven Repository : used to manage the project dependencies.
+- TestNG: used as a testing framework to manage and execute test cases/suites
 
