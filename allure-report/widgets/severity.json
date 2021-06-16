@@ -1,0 +1,61 @@
+[ {
+  "uid" : "6a7023d819df736f",
+  "name" : "updatePetById",
+  "time" : {
+    "start" : 1623810224705,
+    "stop" : 1623810225199,
+    "duration" : 494
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2554f62c90e1e2d8",
+  "name" : "findPetByTags",
+  "time" : {
+    "start" : 1623810224363,
+    "stop" : 1623810224581,
+    "duration" : 218
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ae42cd20c4aff60",
+  "name" : "getPetById",
+  "time" : {
+    "start" : 1623810224596,
+    "stop" : 1623810224689,
+    "duration" : 93
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "67702a4c70a574fa",
+  "name" : "addPet",
+  "time" : {
+    "start" : 1623810220628,
+    "stop" : 1623810223925,
+    "duration" : 3297
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad0ea37a05fdbb66",
+  "name" : "findPetByStatus",
+  "time" : {
+    "start" : 1623810224159,
+    "stop" : 1623810224363,
+    "duration" : 204
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "78062924c1511662",
+  "name" : "deletePet",
+  "time" : {
+    "start" : 1623810223949,
+    "stop" : 1623810224144,
+    "duration" : 195
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

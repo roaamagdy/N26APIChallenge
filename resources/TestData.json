@@ -1,0 +1,38 @@
+{
+  "PetData": {
+    "id": 10,
+    "name": "doggie",
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  "StoreData": {
+    "id": 101,
+    "petId": 198772,
+    "quantity": 7,
+    "shipDate": "2021-06-14T23:16:09.023Z",
+    "status": "approved",
+    "complete": true
+  },
+  "UserData": {
+    "id": 0,
+    "username": "theUser",
+    "firstName": "John",
+    "lastName": "James",
+    "email": "john@email.com",
+    "password": "12345",
+    "phone": "12345",
+    "userStatus": 1
+  }
+}

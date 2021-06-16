@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jun 16 04:23:40 CEST 2021","Wed Jun 16 04:23:43 CEST 2021","3297","Suite","RegressionSuite","com.n26.api.tests.PetTests","com.n26.api.tests.PetTests","addPet","addPet",""
+"passed","Wed Jun 16 04:23:44 CEST 2021","Wed Jun 16 04:23:44 CEST 2021","204","Suite","RegressionSuite","com.n26.api.tests.PetTests","com.n26.api.tests.PetTests","findPetByStatus","findPetByStatus",""
+"passed","Wed Jun 16 04:23:43 CEST 2021","Wed Jun 16 04:23:44 CEST 2021","195","Suite","RegressionSuite","com.n26.api.tests.PetTests","com.n26.api.tests.PetTests","deletePet","deletePet",""
+"passed","Wed Jun 16 04:23:44 CEST 2021","Wed Jun 16 04:23:45 CEST 2021","494","Suite","RegressionSuite","com.n26.api.tests.PetTests","com.n26.api.tests.PetTests","updatePetById","updatePetById",""
+"passed","Wed Jun 16 04:23:44 CEST 2021","Wed Jun 16 04:23:44 CEST 2021","93","Suite","RegressionSuite","com.n26.api.tests.PetTests","com.n26.api.tests.PetTests","getPetById","getPetById",""
+"passed","Wed Jun 16 04:23:44 CEST 2021","Wed Jun 16 04:23:44 CEST 2021","218","Suite","RegressionSuite","com.n26.api.tests.PetTests","com.n26.api.tests.PetTests","findPetByTags","findPetByTags",""

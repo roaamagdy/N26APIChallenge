@@ -1,0 +1,87 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "com.n26.api.tests.PetTests",
+    "children" : [ {
+      "name" : "addPet",
+      "uid" : "67702a4c70a574fa",
+      "parentUid" : "ff2005c50873f8ae08f31934771cae2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623810220628,
+        "stop" : 1623810223925,
+        "duration" : 3297
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "deletePet",
+      "uid" : "78062924c1511662",
+      "parentUid" : "ff2005c50873f8ae08f31934771cae2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623810223949,
+        "stop" : 1623810224144,
+        "duration" : 195
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "findPetByStatus",
+      "uid" : "ad0ea37a05fdbb66",
+      "parentUid" : "ff2005c50873f8ae08f31934771cae2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623810224159,
+        "stop" : 1623810224363,
+        "duration" : 204
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "findPetByTags",
+      "uid" : "2554f62c90e1e2d8",
+      "parentUid" : "ff2005c50873f8ae08f31934771cae2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623810224363,
+        "stop" : 1623810224581,
+        "duration" : 218
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "getPetById",
+      "uid" : "5ae42cd20c4aff60",
+      "parentUid" : "ff2005c50873f8ae08f31934771cae2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623810224596,
+        "stop" : 1623810224689,
+        "duration" : 93
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "updatePetById",
+      "uid" : "6a7023d819df736f",
+      "parentUid" : "ff2005c50873f8ae08f31934771cae2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623810224705,
+        "stop" : 1623810225199,
+        "duration" : 494
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "com.n26.api.tests.PetTests"
+  } ]
+}
